@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YobiDoon</string>
+
+    <string name="font_size_title">曜日の文字サイズ</string>
+    <string name="font_size_small">小</string>
+    <string name="font_size_normal">標準</string>
+    <string name="font_size_large">大</string>
+    <string name="font_size_extra_large">超大</string>
+    <string name="save">保存</string>
+
+    <string name="settings">設定</string>
+    <string name="appwidget_text">曜</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>
