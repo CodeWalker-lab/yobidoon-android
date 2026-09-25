@@ -9,5 +9,5 @@
 * 開発環境
   Android Studio
 
-*言語
+* 言語
 　Java、XML
