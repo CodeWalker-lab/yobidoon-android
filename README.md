@@ -1,4 +1,4 @@
-# ようびドーン（Android App）
+# ようびドーン（YobiDoon）
 初めて挑戦したAndroidアプリです。
 
 * 開発背景／きっかけ：
