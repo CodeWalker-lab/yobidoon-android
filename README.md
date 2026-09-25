@@ -1,4 +1,4 @@
-# Android App
+# よーびドーン（Android App）
 初めて挑戦したAndroidアプリです。
 
 * 開発背景／きっかけ：
