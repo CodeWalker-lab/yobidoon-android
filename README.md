@@ -13,5 +13,5 @@
   Java、XML
 
 * 利用方法：
-  - ①アプリファイル（.APK）をスマホにコピー
+  - ①[アプリ本体](https://github.com/CodeWalker-lab/yobidoon-android/blob/master/app/release/app-release.apk)（.APK）をスマホにコピー
   - ②スマホのファイルをタップするとインストールが開始
