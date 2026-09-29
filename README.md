@@ -14,4 +14,5 @@
 
 * 利用方法：
   - ①[アプリ本体](https://github.com/CodeWalker-lab/yobidoon-android/blob/master/app/release/app-release.apk)（.APK）をスマホにコピー
-  - ②スマホでファイルをタップするとインストールが開始
+  - ②スマホでファイルをタップするとインストールが開始される。
+    注意点：発行元の信頼およびGoogleストア未検証を承知頂くこと。
