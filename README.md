@@ -5,6 +5,10 @@
   「今日、何曜日だっけ？」
 スマートフォンには情報が溢れているのに、一番知りたい曜日だけ埋もれてしまい、シニアには見づらい。
 そうだ！「曜日だけ、ものすごく大きく表示すればいい」
+ロック画面（ロック解除操作不要）に表示。
+
+<img width="311" height="298" alt="image" src="https://github.com/user-attachments/assets/d0a4d1dc-c4fa-4d5c-b210-ff44f25bcf7d" />
+
 
 * 開発環境：
   Android Studio
