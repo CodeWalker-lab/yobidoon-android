@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">YobiDoon</string>
+    <string name="weekday_initial">月</string>
 
     <string name="font_size_title">曜日の文字サイズ</string>
     <string name="font_size_small">小</string>
